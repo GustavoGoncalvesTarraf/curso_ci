@@ -5,9 +5,9 @@ name: Go
 
 on:
   push:
-    branches: [ "aula_1" ]
+    branches: [ "Aula_1" ]
   pull_request:
-    branches: [ "aula_1" ]
+    branches: [ "Aula_1" ]
 
 jobs:
 
